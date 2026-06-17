@@ -1,0 +1,170 @@
+*Injection Vulnerabilities*
+
+1. SQL Injection (SQLi)
+2. Command Injection
+3. NoSQL Injection
+4. LDAP Injection
+5. XPath Injection
+6. ORM Injection
+7. Hibernate Injection
+8. Spring Injection
+
+*Cross-Site Vulnerabilities*
+
+9. Cross-Site Scripting (XSS)
+10. Cross-Site Request Forgery (CSRF)
+11. Cross-Site Tracing (XST)
+12. Cross-Site History Manipulation (XSHM)
+
+*Authentication and Authorization Vulnerabilities*
+
+13. Weak Passwords
+14. Password Guessing
+15. Session Hijacking
+16. Session Fixation
+17. Insufficient Authorization
+18. Missing Authentication
+19. Insecure Password Storage
+20. Insecure Password Recovery
+
+*Input Validation Vulnerabilities*
+
+21. Cross-Site Scripting (XSS)
+22. Command Injection
+23. SQL Injection (SQLi)
+24. File Inclusion Vulnerabilities
+25. Directory Traversal
+26. Path Traversal
+27. Unvalidated Redirects
+28. Unvalidated Forwards
+
+*Error Handling Vulnerabilities*
+
+29. Error Disclosure
+30. Information Leakage
+31. Sensitive Data Exposure
+32. Unhandled Exceptions
+
+*Configuration Vulnerabilities*
+
+33. Misconfigured Server
+34. Misconfigured Database
+35. Outdated Software
+36. Missing Security Headers
+37. Insecure Configuration Files
+
+*File Upload Vulnerabilities*
+
+38. Unrestricted File Upload
+39. File Inclusion Vulnerabilities
+40. File Execution Vulnerabilities
+41. File Information Disclosure
+
+*Directory Traversal Vulnerabilities*
+
+42. Directory Traversal
+43. Path Traversal
+44. Parent Directory Traversal
+
+*HTTP Header Vulnerabilities*
+
+45. HTTP Header Injection
+46. HTTP Response Splitting
+47. HTTP Request Smuggling
+48. HTTP Response Hijacking
+
+*Cryptography Vulnerabilities*
+
+49. Weak Encryption
+50. Insufficient Key Size
+51. Insecure Random Number Generation
+52. Insecure Certificate Validation
+53. Insecure Key Exchange
+
+*Other Vulnerabilities*
+
+54. DOM-Based XSS
+55. Client-Side Validation Bypass
+56. Insecure Direct Object Reference (IDOR)
+57. Server-Side Request Forgery (SSRF)
+58. Insecure CORS Configuration
+59. Insecure WebSockets Configuration
+60. Insecure Server-Side Includes (SSI)
+61. Insecure Client-Side Includes (CSI)
+62. Insecure ActiveX Controls
+63. Insecure Java Applets
+64. Insecure Flash Content
+65. Insecure Silverlight Content
+
+*Information Disclosure Vulnerabilities*
+
+66. Sensitive Data Exposure
+67. Information Leakage
+68. Debug Information Disclosure
+69. Error Message Disclosure
+70. Path Disclosure
+
+*Denial of Service (DoS) Vulnerabilities*
+
+71. Resource Exhaustion
+72. Service Denial
+73. Network Denial
+74. Application Denial
+75. System Denial
+
+*Session Management Vulnerabilities*
+
+76. Session Hijacking
+77. Session Fixation
+78. Insufficient Session Expiration
+79. Missing Session Validation
+80. Weak Session IDs
+
+*Cross-Origin Resource Sharing (CORS) Vulnerabilities*
+
+81. Insecure CORS Configuration
+82. Missing CORS Headers
+83. Insecure CORS Methods
+84. Insecure CORS Origins
+
+*WebSockets Vulnerabilities*
+
+85. Insecure WebSockets Configuration
+86. Missing WebSockets Authentication
+87. Insecure WebSockets Data Transfer
+88. WebSockets Denial of Service
+
+*HTTP/2 Vulnerabilities*
+
+89. HTTP/2 Denial of Service
+90. HTTP/2 Header Injection
+91. HTTP/2 Stream Multiplexing
+92. HTTP/2 Flow Control
+
+*Serverless Vulnerabilities*
+
+93. Insecure Serverless Configuration
+94. Missing Serverless Authentication
+95. Insecure Serverless Data Transfer
+96. Serverless Denial of Service
+
+*Containerization Vulnerabilities*
+
+97. Insecure Container Configuration
+98. Missing Container Authentication
+99. Insecure Container Data Transfer
+100. Container Denial of Service
+
+*Cloud Security Vulnerabilities*
+
+101. Insecure Cloud Configuration
+102. Missing Cloud Authentication
+103. Insecure Cloud Data Transfer
+104. Cloud Denial of Service
+
+*Internet of Things (IoT) Vulnerabilities*
+
+105. Insecure IoT Device Configuration
+106. Missing IoT Device Authentication
+107. Insecure IoT Data Transfer
+108. IoT Denial of Service
